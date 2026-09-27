@@ -70,8 +70,8 @@ Cosmetics-Product-Discontinuation-Analysis/
 ├── data/
 │   └── README.md                              # Dataset source & download instructions
 └── docs/
-    ├── GBUS738_Cosmetics_FinalReport.pdf       # Full written report
-    └── GBUS738_Cosmetics_GroupPresentation.pdf # Group presentation slides
+    ├── technical_report.pdf       # Full written report
+    └── presentation.pdf # Group presentation slides
 ```
 
 ## Getting Started
